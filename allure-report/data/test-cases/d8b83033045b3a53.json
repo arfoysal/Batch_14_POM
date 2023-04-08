@@ -1,0 +1,128 @@
+{
+  "uid" : "d8b83033045b3a53",
+  "name" : "TestHomePageTitle",
+  "fullName" : "testcases.HomePageTest.TestHomePageTitle",
+  "historyId" : "20d022c3c5ffd5e0eb13cab477344cff",
+  "time" : {
+    "start" : 1675528423397,
+    "stop" : 1675528433180,
+    "duration" : 9783
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "setBrowser",
+    "time" : {
+      "start" : 1675528421040,
+      "stop" : 1675528423298,
+      "duration" : 2258
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4ff802235f8025d0",
+      "name" : "Home Page",
+      "source" : "4ff802235f8025d0.png",
+      "type" : "image/png",
+      "size" : 913190
+    }, {
+      "uid" : "42d95f23bda923b8",
+      "name" : "Failed Login",
+      "source" : "42d95f23bda923b8.png",
+      "type" : "image/png",
+      "size" : 128895
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ {
+    "name" : "quitBrowser",
+    "time" : {
+      "start" : 1675528433184,
+      "stop" : 1675528433870,
+      "duration" : 686
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testcases.HomePageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "testcases.HomePageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestHomePageTitle"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "testcases.HomePageTest"
+  }, {
+    "name" : "host",
+    "value" : "arfoysal"
+  }, {
+    "name" : "thread",
+    "value" : "17640@arfoysal.TestNG-test=Test-1(16)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a22722f4ade2749c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1675528169141,
+        "stop" : 1675528185019,
+        "duration" : 15878
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d8b83033045b3a53.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,61 @@
+[ {
+  "uid" : "696233d53a6e0f0a",
+  "name" : "testLoginWithInvalidCredentialsUsingDateProvider",
+  "time" : {
+    "start" : 1675528437753,
+    "stop" : 1675528441234,
+    "duration" : 3481
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fb22a689744f4f25",
+  "name" : "testLoginWithInvalidCredentialsUsingDateProvider",
+  "time" : {
+    "start" : 1675528434144,
+    "stop" : 1675528437747,
+    "duration" : 3603
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "d8b83033045b3a53",
+  "name" : "TestHomePageTitle",
+  "time" : {
+    "start" : 1675528423397,
+    "stop" : 1675528433180,
+    "duration" : 9783
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9cc052d18151e558",
+  "name" : "Test login with Invalid credentials 1",
+  "time" : {
+    "start" : 1675528424456,
+    "stop" : 1675528430574,
+    "duration" : 6118
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2ef36ff1246efa66",
+  "name" : "testLoginWithInvalidCredentialsUsingDateProvider",
+  "time" : {
+    "start" : 1675528224345,
+    "stop" : 1675528227721,
+    "duration" : 3376
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "30611b63e09f0eff",
+  "name" : "testLogInwithInalidCredentialsPassword",
+  "time" : {
+    "start" : 1675528430679,
+    "stop" : 1675528434131,
+    "duration" : 3452
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

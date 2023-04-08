@@ -1,0 +1,254 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "arfoysal",
+    "children" : [ {
+      "name" : "17640@arfoysal.TestNG-test=Test-2(17)",
+      "children" : [ {
+        "name" : "testLoginWithInvalidCredentialsUsingDateProvider",
+        "uid" : "696233d53a6e0f0a",
+        "parentUid" : "24e41147d17bde0ac0a2c4ccb076f305",
+        "status" : "passed",
+        "time" : {
+          "start" : 1675528437753,
+          "stop" : 1675528441234,
+          "duration" : 3481
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ "01724444444", "password", "Incorrect username or password." ]
+      }, {
+        "name" : "testLoginWithInvalidCredentialsUsingDateProvider",
+        "uid" : "fb22a689744f4f25",
+        "parentUid" : "24e41147d17bde0ac0a2c4ccb076f305",
+        "status" : "failed",
+        "time" : {
+          "start" : 1675528434144,
+          "stop" : 1675528437747,
+          "duration" : 3603
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "0111111111", "password", "Please enter a valid phone number" ]
+      }, {
+        "name" : "testLogInwithInalidCredentialsPassword",
+        "uid" : "30611b63e09f0eff",
+        "parentUid" : "24e41147d17bde0ac0a2c4ccb076f305",
+        "status" : "passed",
+        "time" : {
+          "start" : 1675528430679,
+          "stop" : 1675528434131,
+          "duration" : 3452
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test login with Invalid credentials 1",
+        "uid" : "9cc052d18151e558",
+        "parentUid" : "24e41147d17bde0ac0a2c4ccb076f305",
+        "status" : "passed",
+        "time" : {
+          "start" : 1675528424456,
+          "stop" : 1675528430574,
+          "duration" : 6118
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 4,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "24e41147d17bde0ac0a2c4ccb076f305"
+    }, {
+      "name" : "2828@arfoysal.main(1)",
+      "children" : [ {
+        "name" : "testLoginWithInvalidCredentialsUsingDateProvider",
+        "uid" : "d0cf070453e40ea9",
+        "parentUid" : "6b9da88391bca60671627f8da409dc8b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1675528227725,
+          "stop" : 1675528231058,
+          "duration" : 3333
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "01724444444", "password", "Incorrect username or password." ]
+      }, {
+        "name" : "TestHomePageTitle",
+        "uid" : "a22722f4ade2749c",
+        "parentUid" : "6b9da88391bca60671627f8da409dc8b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1675528169141,
+          "stop" : 1675528185019,
+          "duration" : 15878
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testLogInwithInalidCredentialsPassword",
+        "uid" : "a16f1d406143b75",
+        "parentUid" : "6b9da88391bca60671627f8da409dc8b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1675528192831,
+          "stop" : 1675528224335,
+          "duration" : 31504
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test login with Invalid credentials 1",
+        "uid" : "d8dcd4045b0ed458",
+        "parentUid" : "6b9da88391bca60671627f8da409dc8b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1675528187020,
+          "stop" : 1675528192823,
+          "duration" : 5803
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testLoginWithInvalidCredentialsUsingDateProvider",
+        "uid" : "2ef36ff1246efa66",
+        "parentUid" : "6b9da88391bca60671627f8da409dc8b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1675528224345,
+          "stop" : 1675528227721,
+          "duration" : 3376
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "0111111111", "password", "Please enter a valid phone number." ]
+      } ],
+      "uid" : "6b9da88391bca60671627f8da409dc8b"
+    }, {
+      "name" : "13880@arfoysal.main(1)",
+      "children" : [ {
+        "name" : "Test login with Invalid credentials 1",
+        "uid" : "5ef95a0a604d02c6",
+        "parentUid" : "07a7f9176fe9b121719e7f8ced214e0c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1675528132008,
+          "stop" : 1675528137686,
+          "duration" : 5678
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "07a7f9176fe9b121719e7f8ced214e0c"
+    }, {
+      "name" : "17640@arfoysal.TestNG-test=Test-1(16)",
+      "children" : [ {
+        "name" : "TestHomePageTitle",
+        "uid" : "d8b83033045b3a53",
+        "parentUid" : "0f2362c6978bed0ccba4d676c24d8eec",
+        "status" : "passed",
+        "time" : {
+          "start" : 1675528423397,
+          "stop" : 1675528433180,
+          "duration" : 9783
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0f2362c6978bed0ccba4d676c24d8eec"
+    }, {
+      "name" : "8472@arfoysal.main(1)",
+      "children" : [ {
+        "name" : "Test login with Invalid credentials 1",
+        "uid" : "edbc0d25f4e2b314",
+        "parentUid" : "38081eff665e2e5cdc426c11a59e2bb1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1675527499842,
+          "stop" : 1675527506647,
+          "duration" : 6805
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "38081eff665e2e5cdc426c11a59e2bb1"
+    }, {
+      "name" : "15904@arfoysal.main(1)",
+      "children" : [ {
+        "name" : "Test login with Invalid credentials 1",
+        "uid" : "ade7b3376d062e5f",
+        "parentUid" : "1c7f3377de56974bef1710d50880242f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1675527840168,
+          "stop" : 1675527845842,
+          "duration" : 5674
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1c7f3377de56974bef1710d50880242f"
+    } ],
+    "uid" : "36cc7138fe5b8ff3d7780faedde3c42c"
+  } ]
+}

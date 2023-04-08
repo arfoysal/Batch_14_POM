@@ -1,0 +1,117 @@
+{
+  "78d6b303519c7630f50d244b2e5b30f5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9cc052d18151e558",
+      "status" : "passed",
+      "time" : {
+        "start" : 1675528424456,
+        "stop" : 1675528430574,
+        "duration" : 6118
+      }
+    } ]
+  },
+  "20d022c3c5ffd5e0eb13cab477344cff" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d8b83033045b3a53",
+      "status" : "passed",
+      "time" : {
+        "start" : 1675528423397,
+        "stop" : 1675528433180,
+        "duration" : 9783
+      }
+    } ]
+  },
+  "d0cd859b1ac47ce9bfa2793f821180b9" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fb22a689744f4f25",
+      "status" : "failed",
+      "statusDetails" : "expected [Please enter a valid phone number] but found [Please enter a valid phone number.]",
+      "time" : {
+        "start" : 1675528434144,
+        "stop" : 1675528437747,
+        "duration" : 3603
+      }
+    } ]
+  },
+  "2c281afc565114e0c3bf6ef96d9e18b1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "30611b63e09f0eff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1675528430679,
+        "stop" : 1675528434131,
+        "duration" : 3452
+      }
+    } ]
+  },
+  "79673f4142202b6ac4119ead0ece119f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "696233d53a6e0f0a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1675528437753,
+        "stop" : 1675528441234,
+        "duration" : 3481
+      }
+    } ]
+  },
+  "8d07cbe84d7b5401bc5238cefed5d99f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2ef36ff1246efa66",
+      "status" : "passed",
+      "time" : {
+        "start" : 1675528224345,
+        "stop" : 1675528227721,
+        "duration" : 3376
+      }
+    } ]
+  }
+}

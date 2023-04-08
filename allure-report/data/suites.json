@@ -1,0 +1,123 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Suite",
+    "children" : [ {
+      "name" : "Test",
+      "children" : [ {
+        "name" : "testcases.TestLogin",
+        "children" : [ {
+          "name" : "testLoginWithInvalidCredentialsUsingDateProvider",
+          "uid" : "2ef36ff1246efa66",
+          "parentUid" : "0a094ca54b3ab6a36eb01b6cdda270d9",
+          "status" : "passed",
+          "time" : {
+            "start" : 1675528224345,
+            "stop" : 1675528227721,
+            "duration" : 3376
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "0111111111", "password", "Please enter a valid phone number." ]
+        }, {
+          "name" : "Test login with Invalid credentials 1",
+          "uid" : "9cc052d18151e558",
+          "parentUid" : "0a094ca54b3ab6a36eb01b6cdda270d9",
+          "status" : "passed",
+          "time" : {
+            "start" : 1675528424456,
+            "stop" : 1675528430574,
+            "duration" : 6118
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 4,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "testLogInwithInalidCredentialsPassword",
+          "uid" : "30611b63e09f0eff",
+          "parentUid" : "0a094ca54b3ab6a36eb01b6cdda270d9",
+          "status" : "passed",
+          "time" : {
+            "start" : 1675528430679,
+            "stop" : 1675528434131,
+            "duration" : 3452
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 1,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "testLoginWithInvalidCredentialsUsingDateProvider",
+          "uid" : "fb22a689744f4f25",
+          "parentUid" : "0a094ca54b3ab6a36eb01b6cdda270d9",
+          "status" : "failed",
+          "time" : {
+            "start" : 1675528434144,
+            "stop" : 1675528437747,
+            "duration" : 3603
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "0111111111", "password", "Please enter a valid phone number" ]
+        }, {
+          "name" : "testLoginWithInvalidCredentialsUsingDateProvider",
+          "uid" : "696233d53a6e0f0a",
+          "parentUid" : "0a094ca54b3ab6a36eb01b6cdda270d9",
+          "status" : "passed",
+          "time" : {
+            "start" : 1675528437753,
+            "stop" : 1675528441234,
+            "duration" : 3481
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 1,
+          "retriesStatusChange" : false,
+          "parameters" : [ "01724444444", "password", "Incorrect username or password." ]
+        } ],
+        "uid" : "0a094ca54b3ab6a36eb01b6cdda270d9"
+      }, {
+        "name" : "testcases.HomePageTest",
+        "children" : [ {
+          "name" : "TestHomePageTitle",
+          "uid" : "d8b83033045b3a53",
+          "parentUid" : "818316765e9983f9dc590e278e0ae486",
+          "status" : "passed",
+          "time" : {
+            "start" : 1675528423397,
+            "stop" : 1675528433180,
+            "duration" : 9783
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 1,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "818316765e9983f9dc590e278e0ae486"
+      } ],
+      "uid" : "7314231e84d67a341867b5c9d3f928d2"
+    } ],
+    "uid" : "29f4dcc45a0e26cd7c7462063cee854b"
+  } ]
+}

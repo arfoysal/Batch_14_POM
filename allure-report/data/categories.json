@@ -1,0 +1,30 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "expected [Please enter a valid phone number] but found [Please enter a valid phone number.]",
+      "children" : [ {
+        "name" : "testLoginWithInvalidCredentialsUsingDateProvider",
+        "uid" : "fb22a689744f4f25",
+        "parentUid" : "c28094c22b61d6da4dc70f78bfd27216",
+        "status" : "failed",
+        "time" : {
+          "start" : 1675528434144,
+          "stop" : 1675528437747,
+          "duration" : 3603
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "0111111111", "password", "Please enter a valid phone number" ]
+      } ],
+      "uid" : "c28094c22b61d6da4dc70f78bfd27216"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

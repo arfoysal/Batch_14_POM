@@ -1,0 +1,107 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "testLoginWithInvalidCredentialsUsingDateProvider",
+    "uid" : "2ef36ff1246efa66",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675528224345,
+      "stop" : 1675528227721,
+      "duration" : 3376
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "0111111111", "password", "Please enter a valid phone number." ]
+  }, {
+    "name" : "TestHomePageTitle",
+    "uid" : "d8b83033045b3a53",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675528423397,
+      "stop" : 1675528433180,
+      "duration" : 9783
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Test login with Invalid credentials 1",
+    "uid" : "9cc052d18151e558",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675528424456,
+      "stop" : 1675528430574,
+      "duration" : 6118
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 4,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "testLogInwithInalidCredentialsPassword",
+    "uid" : "30611b63e09f0eff",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675528430679,
+      "stop" : 1675528434131,
+      "duration" : 3452
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "testLoginWithInvalidCredentialsUsingDateProvider",
+    "uid" : "fb22a689744f4f25",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1675528434144,
+      "stop" : 1675528437747,
+      "duration" : 3603
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "0111111111", "password", "Please enter a valid phone number" ]
+  }, {
+    "name" : "testLoginWithInvalidCredentialsUsingDateProvider",
+    "uid" : "696233d53a6e0f0a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1675528437753,
+      "stop" : 1675528441234,
+      "duration" : 3481
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "01724444444", "password", "Incorrect username or password." ]
+  } ]
+}

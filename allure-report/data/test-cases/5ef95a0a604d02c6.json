@@ -1,0 +1,98 @@
+{
+  "uid" : "5ef95a0a604d02c6",
+  "name" : "Test login with Invalid credentials 1",
+  "fullName" : "testcases.TestLogin.testLogInwithInalidCredentials",
+  "historyId" : "78d6b303519c7630f50d244b2e5b30f5",
+  "time" : {
+    "start" : 1675528132008,
+    "stop" : 1675528137686,
+    "duration" : 5678
+  },
+  "description" : "Test login with Invalid credentials  from Allure",
+  "descriptionHtml" : "<p>Test login with Invalid credentials  from Allure</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "setBrowser",
+    "time" : {
+      "start" : 1675528129683,
+      "stop" : 1675528131962,
+      "duration" : 2279
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "quitBrowser",
+    "time" : {
+      "start" : 1675528137760,
+      "stop" : 1675528138548,
+      "duration" : 788
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testcases.TestLogin"
+  }, {
+    "name" : "testClass",
+    "value" : "testcases.TestLogin"
+  }, {
+    "name" : "testMethod",
+    "value" : "testLogInwithInalidCredentials"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "testcases.TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "arfoysal"
+  }, {
+    "name" : "thread",
+    "value" : "13880@arfoysal.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5ef95a0a604d02c6.json",
+  "parameterValues" : [ ]
+}
